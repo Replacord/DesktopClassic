@@ -9,4 +9,4 @@ Replacord is Still in its bata Stages if you want to support replacord <a href='
 <br>
 <a href='https://replacord.glitch.me'>Replacord - Web App</a>
 <br>
-<a href='https://github.com/ZGsoftware/replacord/releases/tag/3.4.3-B'>Replacord 3.4.3 Beta - Download</a>
+<a href='https://github.com/ZGsoftware/replacord/releases'>Replacord 3.4.3 Beta - Download</a>
