@@ -13,16 +13,23 @@ Replacord is Still in its bata Stages if you want to support replacord <a href='
 
 
 # Progress on 4.0
-
+<br>
 `Note : All of the project is written in JS, and `
-
+<br>
 ### Languages Making Up this Project
+<br>
 HTML `1%`
+<br>
 ############################
+<br>
 JS `99%`
+<br>
 JS Library [`BetterDOMjs by me || No Documentation yet`](https://cdn-cdn.glitch.me/libraries/BetterDOMjs.js)
+<br>
 JS API [`Firebase By Google || Amazing Documentation`](firebase.google.com)
+<br>
 ############################
+<br>
 CSS `0%`
 
 ### Progress All
