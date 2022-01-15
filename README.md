@@ -12,36 +12,45 @@ Replacord is Still in its bata Stages if you want to support replacord <a href='
 <a href='https://github.com/ZGsoftware/replacord/releases'>Replacord 3.4.3 Beta - Download</a>
 
 
-# Progress on 4.0
-<br>
-</br>
+# Progress on Replacord 4.0
+<br />
+
+
 `Note : All of the project is written in Plain JS`
-<br>
-</br>
+<br />
+
+
 ### Languages Making Up this Project
-<br>
-</br>
+<br />
+
+
 HTML `1%`
-<br>
-</br>
+<br />
+
+
 ############################
-<br>
-</br>
+<br />
+
+
 JS `99%`
-<br>
-</br>
+<br />
+
+
 JS Library [BetterDOMjs by me || No Documentation yet](https://cdn-cdn.glitch.me/libraries/BetterDOMjs.js)
-<br>
-</br>
+<br />
+
+
 JS API [Firebase By Google || Amazing Documentation](firebase.google.com)
-<br>
-</br>
+<br />
+
+
 ############################
-<br>
-</br>
+<br />
+
+
 CSS `0%`
 
-### Progress All
+### Current Progress
 - [ ] GUIS `20%`
 - [ ] APIS `70%`
 
