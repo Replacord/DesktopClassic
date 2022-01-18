@@ -46,8 +46,14 @@ JS API [Firebase By Google || Amazing Documentation](firebase.google.com)
 <br />
 
 ## What Some Stuff Means
+<br />
+
 - [ ] Not Being Worked On
+<br />
+
 - [x] Being Worked On or Finished 
+<br />
+
 `4%` Progress on a thing
 
 
