@@ -19,11 +19,11 @@ Replacord is Still in its bata Stages if you want to support replacord <a href='
 <br />
 ############################
 <br />
-Html ``1%`` Base for JS
+Html `1%` 
 <br />
-CSS `3%` Style
+CSS `3%` 
 <br />
-JS `96%` Full Projects 
+JS `96%` 
 <br />
 ###########################
 <br />
