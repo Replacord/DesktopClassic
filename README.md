@@ -9,37 +9,27 @@ Replacord is Still in its bata Stages if you want to support replacord <a href='
 <br>
 <a href='https://replacord.glitch.me'>Replacord - Web App</a>
 <br>
-<a href='https://github.com/ZGsoftware/replacord/releases'>Replacord 3.4.3 Beta - Download</a>
+<a href='https://github.com/ZGsoftware/replacord/releases'>Replacord Latest - Download</a>
 
 
-# Progress on Replacord 4.0
-<br />
-
-
-`Note : All of the project is written in Plain JS`
-<br />
+# Replacord 4.0
 
 
 ### Languages Making Up this Project
 <br />
-
-
-HTML `1%`
-<br />
-
-
 ############################
 <br />
-
-
-JS `99%`
+Html `1%` Base for JS
+CSS `3%` Style
+JS `96%` Full Projects 
 <br />
+###########################
 
-
+## LIBRARYS
 JS Library [BetterDOMjs by me || No Documentation yet](https://cdn-cdn.glitch.me/libraries/BetterDOMjs.js)
 <br />
 
-
+## APIS
 JS API [Firebase By Google || Amazing Documentation](firebase.google.com)
 <br />
 
@@ -47,23 +37,26 @@ JS API [Firebase By Google || Amazing Documentation](firebase.google.com)
 ############################
 <br />
 
+## What Some Stuff Means
+- [ ] Not Being Worked On
+- [x] Being Worked On or Finished 
+`4%` Progress on a thing
 
-CSS `0%`
 
 ### Current Progress
-- [ ] GUIS `20%`
-- [ ] APIS `70%`
+- [x] GUIS `20%`
+- [x] APIS `70%`
 
 ### APIs
-- [x] SignUp `100%`
-- [x] Login `100%`
+- [x] Login/SignUp `80%` (Kinda Broken being fixed)
+- [ ] Search `0%`
 - [ ] Bot API `0%`
 
 ### Pages
-- [ ] Login Page
-- [ ] SignUp Page
+- [x] Login Page `60%`
+- [ ] SignUp Page `0%`
 
-- [x] Home page
-- [ ] Applications page
-- [ ] Develpoer Portal Page
-- [ ] Support
+- [x] Home page `70%`
+- [x] Applications page `90%`
+- [ ] Develpoer Portal Page `0%`
+- [ ] Support Page `0%`
