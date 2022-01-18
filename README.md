@@ -5,7 +5,7 @@ Replacord is Still in its bata Stages if you want to support replacord <a href='
 
 
 <br>
-<a href='https://replacord.glitch.me'>Replacord - Discord Server</a>
+<a href='https://replacord.glitch.me/app/?id=1&serverid=replacord'>Replacord - Server</a>
 <br>
 <a href='https://replacord.glitch.me'>Replacord - Web App</a>
 <br>
@@ -58,12 +58,12 @@ JS API [Firebase By Google || Amazing Documentation](firebase.google.com)
 
 
 ### Current Progress
-- [x] GUIS `20%`
-- [x] APIS `70%`
+- [x] GUIS `46%`
+- [x] APIS ` 25%`
 
 ### APIs
-- [x] Login/SignUp `80%` (Kinda Broken being fixed)
-- [ ] Search `0%`
+- [x] Login/SignUp API `80%` (Kinda Broken being fixed)
+- [ ] Search API `0%`
 - [ ] Bot API `0%`
 
 ### Pages
